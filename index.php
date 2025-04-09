@@ -10,7 +10,7 @@
 
 <body>
     <div class="container">
-        <h3>Git Coba</h3>
+        <h1>Git Coba</h1>
     </div>
 </body>
 
